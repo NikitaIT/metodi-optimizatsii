@@ -1,3 +1,4 @@
-# First Chapter
+# 1. Выпуклые множества: опpеделение, выпуклая линейная комбинация и ее свойства, пересечение множеств,типы множеств, внутренние и граничные точки.
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+
