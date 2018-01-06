@@ -1,8 +1,10 @@
 # Инфо
 
-https://jim-moody.github.io/gitbook-plugin-styled-blockquotes/
+[https://jim-moody.github.io/gitbook-plugin-styled-blockquotes/](https://jim-moody.github.io/gitbook-plugin-styled-blockquotes/)
 
-https://plugins.gitbook.com/plugin/katex
+[https://plugins.gitbook.com/plugin/katex](https://plugins.gitbook.com/plugin/katex)
+
+https://khan.github.io/KaTeX/function-support.html
 
 # Оглавление
 
